@@ -1,2 +1,5 @@
-# scp
-SCP(Single Cycle Processor)
+# scp(Single Cycle Processor)
+パタヘネのSCPのコードです．verilog-xlで正常動作することを確認しています．
+トップモジュールはscp.vのやつです．
+scp_tb.vがテストモジュールなので動作確認に使ってください．
+おそらくデフォルトだとコラッツ予想を実行するはずです．
